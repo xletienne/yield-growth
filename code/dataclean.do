@@ -1,3 +1,4 @@
+/*Clean the raw production and area data, merge with calorie data, and generate yield index*/
 
 cd "C:\Users\sherr\Dropbox\CurrentSubmission\Yield\2021\data"
 
