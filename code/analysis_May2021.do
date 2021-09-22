@@ -1,7 +1,7 @@
 
 
 
-//Analysis for various sub-indicies (crops)
+//Main analysis: aggregated index and various sub-indicies (crops)
 
 clear all
 use cyield.dta
