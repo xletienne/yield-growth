@@ -1,3 +1,6 @@
+/*This file compiles the data for regional-level analysis*/
+
+
 cd "C:\Users\sherr\Dropbox\CurrentSubmission\Yield\2021\data"
 
 import delimited prod_region.csv, clear
