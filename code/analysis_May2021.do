@@ -1,7 +1,7 @@
 
 
 
-//Analysis for various sub-indicies (crops) PLS change everything to 2002
+//Analysis for various sub-indicies (crops)
 
 clear all
 use cyield.dta
