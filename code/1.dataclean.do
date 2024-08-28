@@ -1,5 +1,4 @@
 
-cd "C:\Users\sherr\Dropbox\CurrentSubmission\Yield\2023\data"
 
 import delimited prod.csv, clear
 rename itemcodefao itemcode
